@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Remind_Me</string>
+    <string name="upcoming">upcoming</string>
+    <string name="choose_category">Choose Category</string>
+</resources>
